@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-darkNaiko: #4c2913;
+  --color-lightNaiko: #ffdfb7;
+  --font-Calistoga: "Calistoga", sans-serif; 
+  --font-Wendy: "Wendy_One", sans-serif;
+}
