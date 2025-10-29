@@ -6,3 +6,15 @@
   --font-Calistoga: "Calistoga", sans-serif; 
   --font-Wendy: "Wendy_One", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+

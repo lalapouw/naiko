@@ -12,7 +12,19 @@ import drink from './drink.png'
 import tiktok from './tiktok.png'
 import instagram from './instagram.png'
 import whatsapp from './whatsapp.png' 
-
+import close_icon from './close_icon.png'
+import asammanis from './asammanis.png'
+import daunjeruk from './daunjeruk.png'
+import keju from './keju.png'
+import mozza from './mozza.png'
+import ladahitam from './ladahitam.png'
+import nasiputih from './nasiputih.png'
+import ori from './ori.png'
+import oseng from './oseng.png'
+import saltedegg from './saltedegg.png'
+import teriyaki from './teriyaki.png'
+import matcha from './matcha.png'
+import milktea from './milktea.png'
 
 export const assets = {
   logo,
@@ -28,4 +40,17 @@ export const assets = {
   tiktok,
   instagram,
   whatsapp,
+  close_icon,
+  asammanis,
+  daunjeruk,
+  keju,
+  mozza,
+  ladahitam,  
+  nasiputih,
+  ori,
+  oseng,
+  saltedegg,
+  teriyaki,
+  matcha,
+  milktea,
 }
